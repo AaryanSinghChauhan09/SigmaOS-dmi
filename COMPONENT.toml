@@ -3,7 +3,7 @@ name = "SigmaOS-dmi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dmi component"
+description = "SigmaOS SigmaOS-dmi component"
 upstream = []
 
 [contract]
